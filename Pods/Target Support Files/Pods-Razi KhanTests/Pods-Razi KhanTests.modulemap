@@ -1,0 +1,6 @@
+framework module Pods_Razi_KhanTests {
+  umbrella header "Pods-Razi KhanTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

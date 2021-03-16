@@ -1,0 +1,6 @@
+framework module Pods_Razi_Khan {
+  umbrella header "Pods-Razi Khan-umbrella.h"
+
+  export *
+  module * { export * }
+}
